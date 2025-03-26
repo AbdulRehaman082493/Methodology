@@ -1,0 +1,20 @@
+1. Create a new directory (or navigate to an existing one):
+   mkdir my-project
+   cd my-project
+
+2. Initialize a new Git repository:
+   git init
+
+3. Add your project files (if any), then stage them:
+   git add .
+
+4. Commit the changes:
+   git commit -m "Initial commit"
+
+5. Create a new repository on GitHub (or your chosen Git hosting service).
+
+6. Add the remote URL (replace with your repo URL):
+   git remote add origin https://github.com/your-username/your-repo.git
+
+7. Push your code to the remote repository (main branch):
+   git push -u origin main
